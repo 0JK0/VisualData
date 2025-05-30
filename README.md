@@ -2,7 +2,7 @@
 
 Una aplicación de escritorio desarrollada en Python para analizar y visualizar datos de incidencias urbanas mediante gráficos interactivos.
 
-## ✨ Características
+## Características
 
 - **Interfaz gráfica intuitiva** construida con Tkinter
 - **Carga de archivos CSV** con manejo de fechas automático
@@ -12,20 +12,20 @@ Una aplicación de escritorio desarrollada en Python para analizar y visualizar 
   - Evolución temporal de incidencias reportadas
   - Distribución de incidencias por comuna y tipo
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Python 3.x**
 - **Pandas** - Manipulación y análisis de datos
 - **Matplotlib** - Generación de gráficos
 - **Tkinter** - Interfaz gráfica de usuario
 
-## 📋 Requisitos
+##  Requisitos
 
 ```bash
 pip install pandas matplotlib
 ```
 
-## 🚀 Uso
+##  Uso
 
 1. Ejecutar la aplicación:
 ```bash
@@ -36,7 +36,7 @@ python main.py
 3. Seleccionar el tipo de visualización deseada
 4. Los gráficos se mostrarán con herramientas de zoom y navegación
 
-## 📊 Formato de Datos Esperado
+##  Formato de Datos Esperado
 
 El archivo CSV debe contener las siguientes columnas:
 - `Fecha` - Fecha del reporte (formato YYYY-MM-DD)
@@ -55,4 +55,4 @@ Este proyecto fue desarrollado como parte de mi aprendizaje en análisis de dato
 
 ---
 
-💡 *Proyecto desarrollado para análisis de datos urbanos y visualización interactiva*
+💡 *Proyecto de aprendizaje desarrollado para análisis de datos urbanos y visualización interactiva*
