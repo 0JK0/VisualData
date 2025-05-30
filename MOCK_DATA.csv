@@ -1,0 +1,501 @@
+id,Fecha,Comuna,Barrio,Problema,Estado,TiempoSolucion
+1,10/9/2024,Guayabal,Bekondo,Luminaria dañada,Solucionado,23
+2,12/2/2024,Envigado,Ganzi,Poste caído,Solucionado,23
+3,7/13/2024,Itagui,Ligonggang,Luminaria dañada,En proceso,
+4,12/2/2024,Doce de Octubre,Orós,Poste caído,Pendiente,
+5,7/22/2024,Manrique,Krzczonów,Poste caído,En proceso,
+6,12/21/2024,Doce de Octubre,Hougang,Poste caído,En proceso,
+7,4/16/2025,La Candelaria,Yulin,Poste caído,En proceso,
+8,4/17/2025,Laureles,Aughrim,Luminaria dañada,Solucionado,29
+9,2/16/2025,Robledo,Ikang,Alcantarillado colapsado,Solucionado,10
+10,4/6/2025,Envigado,Rajhrad,Luminaria dañada,En proceso,
+11,12/4/2024,Robledo,Bonanza,Poste caído,Pendiente,
+12,5/25/2025,Belen,Acharnés,Luminaria dañada,En proceso,
+13,1/2/2025,San Javier,Pokrovka,Poste caído,Pendiente,
+14,4/5/2025,Envigado,Uyen Hung,Luminaria dañada,Pendiente,
+15,7/17/2024,Manrique,Genyem,Hueco en vía,En proceso,
+16,10/28/2024,Santo Domingo,Dūrā al Qar‘,Poste caído,En proceso,
+17,11/23/2024,Castilla,Wuxi,Hueco en vía,Solucionado,10
+18,12/23/2024,Guayabal,Gensi,Poste caído,Pendiente,
+19,8/8/2024,Aranjuez,Baraba,Hueco en vía,Pendiente,
+20,8/15/2024,La Candelaria,Am Djarass,Hueco en vía,En proceso,
+21,12/10/2024,Doce de Octubre,Sudzha,Poste caído,Pendiente,
+22,10/7/2024,Santo Domingo,Lápas,Alcantarillado colapsado,En proceso,
+23,3/14/2025,Manrique,Magway,Hueco en vía,En proceso,
+24,8/8/2024,Manrique,Portumna,Hueco en vía,En proceso,
+25,6/16/2024,Santa Cruz,Lemery,Alcantarillado colapsado,Pendiente,
+26,9/18/2024,Villa Hermosa,Batugede Kulon,Poste caído,Pendiente,
+27,2/7/2025,La Candelaria,Cibeureum,Luminaria dañada,Pendiente,
+28,2/3/2025,La Candelaria,Sarpang,Hueco en vía,Solucionado,10
+29,8/20/2024,Robledo,San Bernardino,Alcantarillado colapsado,Pendiente,
+30,6/5/2024,Santa Cruz,Standerton,Luminaria dañada,Pendiente,
+31,7/10/2024,Aranjuez,Pale,Hueco en vía,En proceso,
+32,1/5/2025,Guayabal,Toutuo,Poste caído,En proceso,
+33,10/19/2024,Manrique,Sujiatun,Hueco en vía,Solucionado,30
+34,3/2/2025,Doce de Octubre,Smilavichy,Poste caído,Pendiente,
+35,3/9/2025,Doce de Octubre,Huanggang,Poste caído,En proceso,
+36,5/7/2025,Aranjuez,Drzewica,Poste caído,Pendiente,
+37,6/17/2024,Santa Cruz,Colonia Catuete,Hueco en vía,Pendiente,
+38,5/18/2025,Guayabal,Paso de los Libres,Hueco en vía,Solucionado,13
+39,6/19/2024,Doce de Octubre,Nariño,Alcantarillado colapsado,Solucionado,30
+40,3/19/2025,Guayabal,Hanover,Poste caído,En proceso,
+41,6/1/2024,Aranjuez,Tambo Grande,Alcantarillado colapsado,Pendiente,
+42,4/10/2025,Aranjuez,Batutulis,Hueco en vía,En proceso,
+43,12/9/2024,Doce de Octubre,Xingdian,Poste caído,Pendiente,
+44,8/4/2024,Guayabal,São José do Rio Preto,Poste caído,Solucionado,24
+45,7/1/2024,Envigado,Brongkalan,Luminaria dañada,Solucionado,25
+46,9/14/2024,Robledo,Turka,Luminaria dañada,Pendiente,
+47,6/26/2024,Manrique,Baton Rouge,Luminaria dañada,En proceso,
+48,2/26/2025,Robledo,Prado,Alcantarillado colapsado,Pendiente,
+49,6/10/2024,El Poblado,Del Valle,Alcantarillado colapsado,Pendiente,
+50,2/14/2025,Doce de Octubre,Vlorë,Poste caído,Pendiente,
+51,10/15/2024,Manrique,Santa Clara,Poste caído,En proceso,
+52,6/17/2024,El Poblado,Shangrao,Alcantarillado colapsado,En proceso,
+53,8/28/2024,Aranjuez,Jinotega,Luminaria dañada,En proceso,
+54,1/4/2025,Manrique,Manhush,Alcantarillado colapsado,Pendiente,
+55,8/1/2024,Villa Hermosa,Timiryazevskiy,Alcantarillado colapsado,Pendiente,
+56,6/5/2024,Itagui,Los Pinos,Poste caído,En proceso,
+57,1/18/2025,El Poblado,Guangfu,Luminaria dañada,Solucionado,26
+58,12/21/2024,Laureles,Kraśniczyn,Alcantarillado colapsado,Solucionado,19
+59,5/26/2025,Doce de Octubre,Chaowai,Alcantarillado colapsado,Solucionado,19
+60,11/23/2024,Envigado,Hōfu,Hueco en vía,Pendiente,
+61,4/11/2025,Aranjuez,Mapulo,Alcantarillado colapsado,En proceso,
+62,8/19/2024,Santo Domingo,Bagumbayan,Alcantarillado colapsado,Solucionado,7
+63,3/30/2025,Belen,Ngajum,Poste caído,Pendiente,
+64,5/11/2025,San Javier,Krong Pi Nang,Luminaria dañada,Pendiente,
+65,9/26/2024,Laureles,Ulricehamn,Luminaria dañada,Solucionado,4
+66,11/17/2024,Villa Hermosa,Praya,Hueco en vía,En proceso,
+67,1/22/2025,La Candelaria,Los Pinos,Alcantarillado colapsado,Pendiente,
+68,5/27/2025,San Javier,Lamongan,Alcantarillado colapsado,Solucionado,30
+69,11/30/2024,San Javier,Brzozów,Luminaria dañada,En proceso,
+70,3/22/2025,Castilla,Karmaskaly,Poste caído,Solucionado,13
+71,10/25/2024,San Javier,Harrisburg,Luminaria dañada,En proceso,
+72,3/18/2025,Santa Cruz,Resistencia,Luminaria dañada,Solucionado,15
+73,6/26/2024,Doce de Octubre,Longkali,Luminaria dañada,Solucionado,30
+74,3/6/2025,Envigado,Grudë-Fushë,Alcantarillado colapsado,Solucionado,23
+75,4/10/2025,El Poblado,Marisol,Poste caído,Solucionado,17
+76,11/26/2024,Santo Domingo,Perniö,Alcantarillado colapsado,En proceso,
+77,10/16/2024,Castilla,Komatsu,Luminaria dañada,Solucionado,30
+78,12/29/2024,El Poblado,Huicheng,Poste caído,En proceso,
+79,1/6/2025,Envigado,Tucheng,Luminaria dañada,Pendiente,
+80,12/28/2024,La Candelaria,Toritama,Poste caído,En proceso,
+81,3/31/2025,Envigado,Valença do Piauí,Luminaria dañada,Pendiente,
+82,12/8/2024,Aranjuez,Wamba,Luminaria dañada,Solucionado,23
+83,10/10/2024,Envigado,Helsingborg,Luminaria dañada,Solucionado,7
+84,11/21/2024,Villa Hermosa,Wuli,Alcantarillado colapsado,En proceso,
+85,10/7/2024,Robledo,Misheronskiy,Hueco en vía,En proceso,
+86,1/21/2025,Guayabal,Lovisa,Poste caído,En proceso,
+87,3/25/2025,Villa Hermosa,Magisterial,Hueco en vía,Pendiente,
+88,6/29/2024,Castilla,Kupang,Hueco en vía,En proceso,
+89,10/14/2024,Castilla,Maseru,Hueco en vía,Solucionado,15
+90,2/9/2025,Envigado,Huallanca,Luminaria dañada,Pendiente,
+91,11/4/2024,Laureles,Qincheng,Poste caído,Solucionado,14
+92,2/14/2025,Aranjuez,Ningshan Chengguanzhen,Luminaria dañada,Solucionado,19
+93,3/8/2025,Guayabal,Liuhou,Poste caído,En proceso,
+94,7/28/2024,Itagui,Verkhniy Mamon,Poste caído,En proceso,
+95,11/15/2024,San Javier,Covas,Alcantarillado colapsado,Pendiente,
+96,8/8/2024,Envigado,Balungkopi,Poste caído,Pendiente,
+97,12/24/2024,Guayabal,Batanghari,Hueco en vía,Solucionado,15
+98,8/2/2024,Villa Hermosa,Melaka,Alcantarillado colapsado,Pendiente,
+99,6/8/2024,Aranjuez,Allada,Alcantarillado colapsado,Solucionado,27
+100,2/15/2025,Santo Domingo,Huquan,Alcantarillado colapsado,Solucionado,21
+101,4/19/2025,Itagui,Niejiahe,Hueco en vía,Pendiente,
+102,1/3/2025,Doce de Octubre,Citeguh,Alcantarillado colapsado,Solucionado,21
+103,11/6/2024,Doce de Octubre,Médanos,Alcantarillado colapsado,Pendiente,
+104,11/7/2024,La Candelaria,Dadian,Luminaria dañada,En proceso,
+105,6/12/2024,San Javier,Sopo,Poste caído,Pendiente,
+106,10/29/2024,Robledo,Hatavch,Hueco en vía,Solucionado,4
+107,6/12/2024,Guayabal,Yashan,Luminaria dañada,Solucionado,11
+108,3/8/2025,Doce de Octubre,Charlotte,Alcantarillado colapsado,Solucionado,19
+109,1/14/2025,Guayabal,Hisor,Poste caído,Solucionado,26
+110,12/30/2024,Aranjuez,Štore,Poste caído,Pendiente,
+111,7/26/2024,Envigado,Palmas,Poste caído,En proceso,
+112,12/24/2024,El Poblado,Jingling,Alcantarillado colapsado,Solucionado,26
+113,11/23/2024,Belen,Dete,Poste caído,Pendiente,
+114,1/26/2025,Robledo,Petersfield,Alcantarillado colapsado,Pendiente,
+115,10/22/2024,Aranjuez,Xinzhan,Luminaria dañada,Solucionado,27
+116,6/6/2024,Aranjuez,Liancheng,Luminaria dañada,Solucionado,24
+117,8/23/2024,Santo Domingo,Gālīkesh,Alcantarillado colapsado,Pendiente,
+118,10/10/2024,Villa Hermosa,Mulyoagung,Hueco en vía,Pendiente,
+119,3/6/2025,Aranjuez,Póvoa,Hueco en vía,Solucionado,14
+120,11/18/2024,Robledo,Viterbo,Poste caído,Solucionado,27
+121,5/24/2025,Envigado,La Virtud,Hueco en vía,Solucionado,15
+122,10/13/2024,Santa Cruz,Ufimskiy,Poste caído,En proceso,
+123,11/1/2024,Itagui,Ban Phan Don,Poste caído,En proceso,
+124,3/20/2025,San Javier,Fram,Hueco en vía,Solucionado,9
+125,1/14/2025,Doce de Octubre,Begowāla,Poste caído,Pendiente,
+126,11/21/2024,Villa Hermosa,Eindhoven,Luminaria dañada,En proceso,
+127,5/19/2025,Doce de Octubre,Horní Štěpánov,Hueco en vía,Solucionado,30
+128,9/29/2024,Doce de Octubre,Bozhou,Alcantarillado colapsado,Pendiente,
+129,3/14/2025,Castilla,Jetis,Luminaria dañada,Solucionado,7
+130,7/1/2024,Aranjuez,Luts’k,Luminaria dañada,Pendiente,
+131,9/5/2024,Itagui,Gangmian,Luminaria dañada,Pendiente,
+132,3/19/2025,Manrique,Corinto,Poste caído,En proceso,
+133,5/17/2025,Guayabal,Sinargalih,Hueco en vía,Solucionado,14
+134,4/13/2025,Doce de Octubre,Cergy-Pontoise,Poste caído,Solucionado,13
+135,3/14/2025,Manrique,Los Angeles,Alcantarillado colapsado,Pendiente,
+136,11/18/2024,Manrique,Daigo,Luminaria dañada,Solucionado,8
+137,10/29/2024,Santa Cruz,Issa,Hueco en vía,Pendiente,
+138,1/28/2025,Envigado,Atolina,Poste caído,Pendiente,
+139,6/24/2024,Aranjuez,Sananduva,Luminaria dañada,Solucionado,8
+140,2/24/2025,Manrique,Carpenter,Alcantarillado colapsado,Solucionado,13
+141,11/12/2024,Itagui,Liqiao,Alcantarillado colapsado,Solucionado,19
+142,3/24/2025,Aranjuez,Béja,Hueco en vía,En proceso,
+143,1/31/2025,Laureles,Hiratsuka,Alcantarillado colapsado,Solucionado,25
+144,3/4/2025,Santo Domingo,Marzhing,Hueco en vía,Pendiente,
+145,8/6/2024,Belen,Pandat,Hueco en vía,Pendiente,
+146,10/16/2024,Santa Cruz,Tarnawatka,Poste caído,Solucionado,17
+147,7/11/2024,Envigado,Agraharam,Alcantarillado colapsado,Solucionado,19
+148,3/25/2025,Santa Cruz,Solna,Luminaria dañada,Solucionado,10
+149,4/3/2025,San Javier,Shewopo,Hueco en vía,En proceso,
+150,11/18/2024,Santa Cruz,Aqsay,Luminaria dañada,Pendiente,
+151,3/29/2025,El Poblado,Nove-Misto,Poste caído,Solucionado,6
+152,4/26/2025,Doce de Octubre,Saue,Alcantarillado colapsado,Solucionado,11
+153,12/4/2024,Belen,Kholm,Alcantarillado colapsado,Pendiente,
+154,4/1/2025,Laureles,Suibara,Poste caído,Pendiente,
+155,8/12/2024,Manrique,Moshiyi,Poste caído,Solucionado,6
+156,7/18/2024,Envigado,Siemiątkowo,Hueco en vía,En proceso,
+157,9/9/2024,Laureles,Kāmyārān,Poste caído,En proceso,
+158,1/11/2025,Manrique,Ipoh,Luminaria dañada,En proceso,
+159,1/24/2025,San Javier,Tianchi,Hueco en vía,Pendiente,
+160,3/2/2025,Envigado,Jieshipu,Luminaria dañada,Solucionado,26
+161,8/23/2024,Itagui,Savannah,Luminaria dañada,En proceso,
+162,3/21/2025,Doce de Octubre,Isdalstø,Alcantarillado colapsado,Pendiente,
+163,12/8/2024,Santa Cruz,Montecarlo,Alcantarillado colapsado,Pendiente,
+164,2/21/2025,Santo Domingo,Koceljeva,Hueco en vía,Solucionado,12
+165,5/25/2025,Villa Hermosa,Bayuwan,Luminaria dañada,En proceso,
+166,9/6/2024,Itagui,Santa Maria,Alcantarillado colapsado,Solucionado,9
+167,2/10/2025,La Candelaria,Yamagata-shi,Hueco en vía,En proceso,
+168,10/8/2024,Castilla,Sel’tso,Hueco en vía,Solucionado,12
+169,6/14/2024,Robledo,Taltal,Luminaria dañada,Solucionado,12
+170,11/2/2024,Belen,Médanos,Poste caído,En proceso,
+171,12/29/2024,Doce de Octubre,Cergy-Pontoise,Hueco en vía,Pendiente,
+172,9/23/2024,El Poblado,Cristalina,Luminaria dañada,Solucionado,21
+173,10/16/2024,Doce de Octubre,Kristinehamn,Poste caído,Pendiente,
+174,9/16/2024,Aranjuez,Żabno,Poste caído,En proceso,
+175,3/16/2025,Guayabal,Pucara,Hueco en vía,En proceso,
+176,8/27/2024,San Javier,Fangshan,Luminaria dañada,Solucionado,16
+177,10/30/2024,Envigado,Nizhniy Kurkuzhin,Poste caído,Pendiente,
+178,12/8/2024,Robledo,Surenavan,Alcantarillado colapsado,Solucionado,14
+179,1/26/2025,Villa Hermosa,Kanoya,Luminaria dañada,En proceso,
+180,5/5/2025,Villa Hermosa,Lansing,Poste caído,Pendiente,
+181,1/22/2025,Doce de Octubre,San Francisco,Luminaria dañada,Pendiente,
+182,7/5/2024,Manrique,Lemery,Luminaria dañada,En proceso,
+183,10/13/2024,Aranjuez,Liloy,Poste caído,Solucionado,17
+184,7/25/2024,Manrique,La Charité-sur-Loire,Alcantarillado colapsado,En proceso,
+185,8/19/2024,Doce de Octubre,Yamango,Luminaria dañada,En proceso,
+186,1/9/2025,Belen,Vidovci,Poste caído,Pendiente,
+187,1/2/2025,Villa Hermosa,Geji,Poste caído,En proceso,
+188,6/23/2024,Villa Hermosa,'s-Hertogenbosch,Hueco en vía,Solucionado,11
+189,6/5/2024,El Poblado,Guacarí,Alcantarillado colapsado,Solucionado,28
+190,8/6/2024,San Javier,Baler Baleagung,Luminaria dañada,Solucionado,22
+191,8/16/2024,El Poblado,Jiangxiangzhen,Alcantarillado colapsado,Solucionado,10
+192,7/9/2024,El Poblado,Capitán Sarmiento,Poste caído,En proceso,
+193,9/17/2024,Belen,Imishli,Hueco en vía,Pendiente,
+194,5/17/2025,Aranjuez,Alexandria,Hueco en vía,Pendiente,
+195,8/12/2024,Doce de Octubre,Jega,Luminaria dañada,Solucionado,9
+196,7/3/2024,Castilla,Campo Formoso,Luminaria dañada,En proceso,
+197,7/28/2024,Manrique,Reshetylivka,Luminaria dañada,En proceso,
+198,4/9/2025,Villa Hermosa,Grenoble,Luminaria dañada,En proceso,
+199,3/21/2025,Aranjuez,Qingjiang,Luminaria dañada,Solucionado,4
+200,7/9/2024,Guayabal,Chaeryŏng-ŭp,Luminaria dañada,Solucionado,22
+201,9/1/2024,Santo Domingo,Thị Trấn Việt Lâm,Poste caído,Solucionado,18
+202,5/16/2025,Castilla,Pondokrejo Wetan,Poste caído,Pendiente,
+203,12/12/2024,Aranjuez,Dengfeng,Poste caído,Pendiente,
+204,3/25/2025,Doce de Octubre,Tambarangan,Poste caído,Solucionado,12
+205,12/25/2024,Guayabal,Villa Altagracia,Luminaria dañada,Pendiente,
+206,2/5/2025,Santa Cruz,Malartic,Luminaria dañada,En proceso,
+207,2/27/2025,Aranjuez,Kisasa,Hueco en vía,En proceso,
+208,9/8/2024,Belen,Zhenqian,Hueco en vía,Pendiente,
+209,10/12/2024,Santo Domingo,Ljubno ob Savinji,Poste caído,Solucionado,21
+210,5/2/2025,Itagui,Illela,Luminaria dañada,Solucionado,23
+211,12/16/2024,Castilla,Chełmża,Poste caído,Solucionado,15
+212,10/12/2024,El Poblado,Gharavŭtí,Hueco en vía,En proceso,
+213,4/23/2025,Aranjuez,Cibeureum,Poste caído,Solucionado,26
+214,5/1/2025,El Poblado,Babakankadu,Luminaria dañada,En proceso,
+215,9/20/2024,Santo Domingo,Yangjiang,Poste caído,Solucionado,13
+216,11/27/2024,Guayabal,San Simon,Hueco en vía,Solucionado,28
+217,11/16/2024,Envigado,Rongxiang,Alcantarillado colapsado,Solucionado,16
+218,8/19/2024,Doce de Octubre,Orodo,Poste caído,Pendiente,
+219,2/12/2025,El Poblado,Guayabo Dulce,Poste caído,Pendiente,
+220,7/11/2024,Doce de Octubre,Berekum,Poste caído,Solucionado,7
+221,12/3/2024,Belen,Burirao,Luminaria dañada,Solucionado,4
+222,12/14/2024,Guayabal,Wubao,Poste caído,Solucionado,23
+223,1/30/2025,Aranjuez,Bla,Hueco en vía,Pendiente,
+224,6/15/2024,Envigado,Daduo,Alcantarillado colapsado,Solucionado,30
+225,6/28/2024,Doce de Octubre,Hadano,Alcantarillado colapsado,En proceso,
+226,5/4/2025,Doce de Octubre,Stockholm,Hueco en vía,En proceso,
+227,12/16/2024,Itagui,Gubin,Hueco en vía,En proceso,
+228,10/6/2024,Itagui,Xiashe,Hueco en vía,Pendiente,
+229,1/5/2025,Santo Domingo,Singaraja,Luminaria dañada,Solucionado,9
+230,4/23/2025,San Javier,San Simón,Poste caído,En proceso,
+231,7/26/2024,Laureles,Bom Conselho,Poste caído,Pendiente,
+232,8/7/2024,Manrique,Madang,Hueco en vía,Solucionado,28
+233,6/5/2024,Santa Cruz,Krousón,Hueco en vía,Solucionado,24
+234,5/9/2025,Itagui,Dzhalilabad,Luminaria dañada,Solucionado,29
+235,4/20/2025,Laureles,Cartagena,Poste caído,En proceso,
+236,7/8/2024,Doce de Octubre,Tugu,Poste caído,En proceso,
+237,5/2/2025,Aranjuez,Ayabe,Luminaria dañada,Solucionado,28
+238,4/21/2025,Manrique,Nam Đàn,Luminaria dañada,En proceso,
+239,1/20/2025,Villa Hermosa,Soure,Poste caído,Solucionado,6
+240,12/11/2024,Villa Hermosa,Mandala,Poste caído,Pendiente,
+241,9/2/2024,Doce de Octubre,Valle San Francisco,Hueco en vía,Solucionado,30
+242,8/8/2024,Envigado,Razgrad,Poste caído,Pendiente,
+243,11/25/2024,Santo Domingo,Idi Iroko,Poste caído,Solucionado,13
+244,9/20/2024,Castilla,Shengshan,Hueco en vía,Solucionado,7
+245,9/22/2024,Aranjuez,Red Hill,Hueco en vía,En proceso,
+246,7/29/2024,San Javier,Komyshany,Luminaria dañada,En proceso,
+247,1/26/2025,Robledo,Kremenki,Alcantarillado colapsado,Pendiente,
+248,3/13/2025,Aranjuez,Ventspils,Hueco en vía,Solucionado,15
+249,8/8/2024,Belen,Yezhu,Luminaria dañada,Solucionado,24
+250,6/14/2024,Manrique,Taihua,Alcantarillado colapsado,Pendiente,
+251,10/26/2024,San Javier,Brooklyn,Alcantarillado colapsado,En proceso,
+252,6/1/2024,Castilla,Humaitá,Alcantarillado colapsado,Pendiente,
+253,8/6/2024,Guayabal,Jaquimeyes,Alcantarillado colapsado,Solucionado,27
+254,1/22/2025,Santo Domingo,Cilebang Satu,Poste caído,Solucionado,23
+255,8/25/2024,Guayabal,Huating,Alcantarillado colapsado,Pendiente,
+256,10/5/2024,Itagui,Los Andes,Alcantarillado colapsado,En proceso,
+257,9/10/2024,Manrique,Qindu,Poste caído,Solucionado,14
+258,4/17/2025,Belen,Rohia,Luminaria dañada,Pendiente,
+259,11/10/2024,Manrique,Coruripe,Hueco en vía,En proceso,
+260,9/23/2024,Aranjuez,Rossosh’,Poste caído,Pendiente,
+261,10/12/2024,Envigado,Shchëkino,Luminaria dañada,Solucionado,30
+262,12/27/2024,Guayabal,Claremorris,Luminaria dañada,En proceso,
+263,3/27/2025,Manrique,Bolaoit,Alcantarillado colapsado,Solucionado,8
+264,4/7/2025,Guayabal,Altan Emel,Luminaria dañada,Solucionado,18
+265,5/7/2025,El Poblado,Karungdong,Hueco en vía,En proceso,
+266,11/24/2024,Santo Domingo,Comodoro Rivadavia,Luminaria dañada,Solucionado,30
+267,12/23/2024,El Poblado,Amiens,Luminaria dañada,Pendiente,
+268,11/20/2024,San Javier,Kourou,Hueco en vía,En proceso,
+269,10/15/2024,San Javier,Jāti,Luminaria dañada,Solucionado,16
+270,8/7/2024,Guayabal,Growong Lor,Luminaria dañada,En proceso,
+271,8/9/2024,Aranjuez,Danidehe,Luminaria dañada,Pendiente,
+272,2/24/2025,Itagui,Lujiao,Alcantarillado colapsado,Solucionado,15
+273,7/26/2024,La Candelaria,Vardablur,Poste caído,En proceso,
+274,1/29/2025,San Javier,Frydrychowice,Luminaria dañada,Solucionado,15
+275,2/19/2025,La Candelaria,Granard,Poste caído,En proceso,
+276,6/4/2024,Santa Cruz,Yulao,Alcantarillado colapsado,En proceso,
+277,1/21/2025,Envigado,Long Beach,Alcantarillado colapsado,Pendiente,
+278,7/20/2024,Envigado,Zinder,Hueco en vía,Solucionado,26
+279,11/8/2024,Doce de Octubre,Tyringe,Luminaria dañada,En proceso,
+280,7/11/2024,Santo Domingo,Ciakar,Poste caído,En proceso,
+281,10/28/2024,Belen,San Guillermo,Luminaria dañada,En proceso,
+282,8/18/2024,Belen,Härnösand,Poste caído,En proceso,
+283,8/2/2024,Laureles,Sihe,Poste caído,Solucionado,15
+284,12/30/2024,Envigado,Rubizhne,Poste caído,En proceso,
+285,8/11/2024,Robledo,Wenbi,Poste caído,Pendiente,
+286,6/27/2024,Laureles,Julayjilah,Hueco en vía,Solucionado,14
+287,4/30/2025,Villa Hermosa,Genova,Luminaria dañada,Solucionado,22
+288,3/3/2025,Doce de Octubre,Gayam,Alcantarillado colapsado,Pendiente,
+289,6/12/2024,Envigado,Sari,Luminaria dañada,Pendiente,
+290,11/29/2024,Castilla,Janja,Poste caído,En proceso,
+291,6/29/2024,Doce de Octubre,Sukamulya,Luminaria dañada,Pendiente,
+292,4/29/2025,Santa Cruz,Kapchorwa,Hueco en vía,Pendiente,
+293,11/19/2024,Doce de Octubre,Palmares,Luminaria dañada,Pendiente,
+294,12/3/2024,Robledo,Arāk,Luminaria dañada,En proceso,
+295,10/31/2024,Santo Domingo,Lázně Kynžvart,Poste caído,En proceso,
+296,7/24/2024,Doce de Octubre,Xishanzui,Luminaria dañada,En proceso,
+297,4/3/2025,Envigado,Schengen,Poste caído,Solucionado,15
+298,7/21/2024,San Javier,"Hospitalet De Llobregat, L'",Poste caído,En proceso,
+299,2/10/2025,Manrique,Spas-Zaulok,Hueco en vía,En proceso,
+300,3/30/2025,Aranjuez,Cabangahan,Hueco en vía,Solucionado,13
+301,6/6/2024,San Javier,Muang Xay,Poste caído,Pendiente,
+302,6/3/2024,Manrique,Nacka,Poste caído,En proceso,
+303,1/6/2025,Manrique,Kutacane,Alcantarillado colapsado,Pendiente,
+304,5/11/2025,Santo Domingo,Rathangan,Poste caído,Solucionado,23
+305,2/16/2025,La Candelaria,Karadaglije,Luminaria dañada,Solucionado,28
+306,12/5/2024,Laureles,Biao,Poste caído,Solucionado,18
+307,11/14/2024,La Candelaria,San Miguel,Poste caído,En proceso,
+308,11/13/2024,La Candelaria,Bulungu,Hueco en vía,Solucionado,25
+309,5/17/2025,Doce de Octubre,Bălţi,Poste caído,Pendiente,
+310,6/12/2024,Aranjuez,Hucun,Poste caído,En proceso,
+311,10/23/2024,San Javier,Pervomayskaya,Alcantarillado colapsado,Pendiente,
+312,11/23/2024,Envigado,Dazhou,Alcantarillado colapsado,Solucionado,27
+313,9/30/2024,Belen,Pasto,Hueco en vía,Solucionado,23
+314,6/10/2024,Doce de Octubre,Roun Satu,Poste caído,Pendiente,
+315,1/1/2025,Villa Hermosa,Lingshan,Hueco en vía,Solucionado,24
+316,9/30/2024,Aranjuez,New Bedford,Hueco en vía,Solucionado,30
+317,4/14/2025,Doce de Octubre,Khōshāmand,Alcantarillado colapsado,En proceso,
+318,3/12/2025,El Poblado,Wat Sing,Poste caído,En proceso,
+319,4/13/2025,Villa Hermosa,Sindou,Luminaria dañada,Pendiente,
+320,6/19/2024,Manrique,Baon,Alcantarillado colapsado,Pendiente,
+321,6/16/2024,San Javier,Tyresö,Alcantarillado colapsado,En proceso,
+322,7/30/2024,Manrique,Acherítou,Poste caído,En proceso,
+323,7/31/2024,El Poblado,Noginsk-9,Alcantarillado colapsado,En proceso,
+324,9/29/2024,Guayabal,Bajiao,Poste caído,Solucionado,8
+325,1/14/2025,Doce de Octubre,Āq Qāyeh,Luminaria dañada,En proceso,
+326,11/21/2024,Manrique,Shixiang,Alcantarillado colapsado,Pendiente,
+327,3/15/2025,Doce de Octubre,Kousséri,Hueco en vía,Solucionado,13
+328,2/17/2025,Doce de Octubre,Mueang Phuket,Luminaria dañada,Pendiente,
+329,7/12/2024,Manrique,Lukunor,Hueco en vía,Pendiente,
+330,6/30/2024,Aranjuez,Dalan,Poste caído,Pendiente,
+331,6/8/2024,El Poblado,Satuek,Luminaria dañada,En proceso,
+332,7/3/2024,Manrique,Buena Vista,Luminaria dañada,En proceso,
+333,7/28/2024,Itagui,Paris 04,Alcantarillado colapsado,Solucionado,27
+334,9/7/2024,Doce de Octubre,Gus’-Zheleznyy,Luminaria dañada,En proceso,
+335,8/12/2024,Aranjuez,Vasylkiv,Alcantarillado colapsado,Solucionado,25
+336,12/11/2024,San Javier,Kommunisticheskiy,Poste caído,Solucionado,24
+337,5/1/2025,Santo Domingo,Patsi,Poste caído,Solucionado,25
+338,12/19/2024,Doce de Octubre,Zaña,Luminaria dañada,Solucionado,10
+339,5/4/2025,Manrique,Ragana,Hueco en vía,En proceso,
+340,3/10/2025,Laureles,Aseri,Luminaria dañada,En proceso,
+341,9/14/2024,Manrique,Cachadinha,Poste caído,Pendiente,
+342,7/16/2024,Santo Domingo,Teongtoda,Poste caído,En proceso,
+343,4/25/2025,San Javier,Tanagara,Hueco en vía,Pendiente,
+344,1/4/2025,Laureles,Dārayyā,Hueco en vía,Pendiente,
+345,3/10/2025,La Candelaria,‘Alāqahdārī Gēlān,Hueco en vía,En proceso,
+346,2/12/2025,Laureles,Clanwilliam,Hueco en vía,En proceso,
+347,9/25/2024,Villa Hermosa,Purwasari,Poste caído,En proceso,
+348,3/1/2025,Doce de Octubre,Korydallós,Hueco en vía,Pendiente,
+349,9/19/2024,La Candelaria,Sigiriya,Hueco en vía,En proceso,
+350,2/4/2025,Aranjuez,Kuala Lumpur,Alcantarillado colapsado,Pendiente,
+351,8/9/2024,Doce de Octubre,Honolulu,Poste caído,En proceso,
+352,8/9/2024,Aranjuez,Raminho,Hueco en vía,En proceso,
+353,2/4/2025,Aranjuez,Ogurugu,Luminaria dañada,En proceso,
+354,8/13/2024,Robledo,Xinning,Luminaria dañada,Solucionado,26
+355,11/3/2024,Doce de Octubre,Pompano Beach,Hueco en vía,En proceso,
+356,8/24/2024,Laureles,Cimaragas,Poste caído,Solucionado,15
+357,11/13/2024,Manrique,Djambala,Hueco en vía,En proceso,
+358,7/24/2024,Villa Hermosa,Logung,Poste caído,Solucionado,5
+359,4/16/2025,Itagui,Quisqueya,Hueco en vía,Solucionado,29
+360,7/30/2024,Aranjuez,Itatskiy,Poste caído,Pendiente,
+361,7/16/2024,Laureles,Čajetina,Poste caído,Solucionado,17
+362,8/31/2024,Castilla,Tempel,Hueco en vía,Solucionado,5
+363,5/11/2025,Laureles,Zaoxi,Luminaria dañada,En proceso,
+364,3/28/2025,San Javier,Floriana,Hueco en vía,Pendiente,
+365,6/7/2024,La Candelaria,Përmet,Hueco en vía,Solucionado,9
+366,3/18/2025,San Javier,Wanfu,Hueco en vía,En proceso,
+367,8/3/2024,Laureles,Kesamben,Poste caído,Pendiente,
+368,3/11/2025,Santo Domingo,Acas,Poste caído,En proceso,
+369,5/6/2025,San Javier,Guta,Hueco en vía,En proceso,
+370,2/15/2025,San Javier,Villa Yapacaní,Poste caído,Pendiente,
+371,3/16/2025,El Poblado,Kattaqo’rg’on,Poste caído,En proceso,
+372,3/11/2025,Aranjuez,Mlawe,Luminaria dañada,En proceso,
+373,3/18/2025,Envigado,Nzérékoré,Alcantarillado colapsado,Solucionado,10
+374,5/11/2025,Manrique,Nîmes,Hueco en vía,En proceso,
+375,8/14/2024,Belen,Hodkovice nad Mohelkou,Poste caído,Solucionado,8
+376,5/19/2025,Envigado,Lai Lai Bisi Kopan,Luminaria dañada,En proceso,
+377,1/6/2025,Manrique,Kwakoa,Alcantarillado colapsado,En proceso,
+378,12/13/2024,El Poblado,Linköping,Luminaria dañada,Solucionado,22
+379,2/20/2025,Castilla,Zastávka,Luminaria dañada,Solucionado,15
+380,12/9/2024,La Candelaria,Bayt ‘Anān,Hueco en vía,Solucionado,15
+381,12/9/2024,Robledo,Klimontów,Hueco en vía,Solucionado,26
+382,11/10/2024,Doce de Octubre,Hualin,Alcantarillado colapsado,Pendiente,
+383,1/6/2025,Belen,Al Lagowa,Hueco en vía,En proceso,
+384,12/24/2024,Santa Cruz,Três Passos,Poste caído,En proceso,
+385,6/16/2024,Doce de Octubre,Tanahgrogot,Luminaria dañada,Solucionado,9
+386,1/1/2025,Guayabal,Venda,Poste caído,Solucionado,8
+387,7/15/2024,Castilla,Chrysoúpolis,Alcantarillado colapsado,Pendiente,
+388,10/14/2024,Villa Hermosa,Cololaca,Alcantarillado colapsado,Solucionado,14
+389,5/4/2025,Belen,Heling,Luminaria dañada,En proceso,
+390,2/21/2025,Laureles,Las Flores,Hueco en vía,Solucionado,30
+391,5/30/2024,Santa Cruz,Pukekohe East,Poste caído,Solucionado,11
+392,8/21/2024,Doce de Octubre,Zomba,Hueco en vía,Pendiente,
+393,5/23/2025,El Poblado,Kochani,Hueco en vía,En proceso,
+394,2/18/2025,El Poblado,Longmenfan,Luminaria dañada,Solucionado,9
+395,8/27/2024,Santa Cruz,Mitzpe Ramon,Hueco en vía,Solucionado,15
+396,11/19/2024,Castilla,Zielonka,Poste caído,Solucionado,20
+397,9/18/2024,Santa Cruz,Gaoqiao,Hueco en vía,En proceso,
+398,3/21/2025,Manrique,Zhuangshi,Hueco en vía,Solucionado,10
+399,1/22/2025,Aranjuez,Muarasiau,Poste caído,Pendiente,
+400,9/8/2024,Manrique,Kozel’shchyna,Hueco en vía,En proceso,
+401,10/20/2024,Villa Hermosa,Cartagena,Poste caído,Pendiente,
+402,10/8/2024,Itagui,Trmice,Hueco en vía,Solucionado,15
+403,1/29/2025,Villa Hermosa,Bala Murghab,Alcantarillado colapsado,En proceso,
+404,8/15/2024,Laureles,Cabra Figa,Alcantarillado colapsado,En proceso,
+405,2/7/2025,Doce de Octubre,Oemofa,Hueco en vía,Solucionado,11
+406,10/13/2024,Villa Hermosa,Aigínio,Poste caído,Pendiente,
+407,12/30/2024,Aranjuez,Valencia,Poste caído,En proceso,
+408,5/22/2025,Castilla,Bassar,Luminaria dañada,Solucionado,7
+409,1/31/2025,Santa Cruz,Pameče,Luminaria dañada,Pendiente,
+410,3/20/2025,Santo Domingo,Tertek,Hueco en vía,Pendiente,
+411,3/24/2025,Castilla,Santo Niño,Hueco en vía,Solucionado,19
+412,9/24/2024,Aranjuez,Shimiaozi,Hueco en vía,En proceso,
+413,1/28/2025,Castilla,Wilkołaz,Luminaria dañada,En proceso,
+414,5/29/2025,Castilla,Anulid,Luminaria dañada,En proceso,
+415,4/10/2025,Aranjuez,Qiancang,Poste caído,Solucionado,4
+416,5/26/2025,Laureles,Jiḩānah,Luminaria dañada,En proceso,
+417,12/8/2024,San Javier,Dehang,Hueco en vía,Pendiente,
+418,3/17/2025,El Poblado,Gaomiaoji,Hueco en vía,En proceso,
+419,4/20/2025,Aranjuez,Wolonio,Luminaria dañada,En proceso,
+420,8/3/2024,Castilla,Banjar Kajanan,Poste caído,Pendiente,
+421,1/15/2025,Doce de Octubre,Saitama,Alcantarillado colapsado,Pendiente,
+422,11/22/2024,San Javier,Mizhuang,Hueco en vía,Solucionado,24
+423,1/8/2025,Laureles,Kitchener,Poste caído,En proceso,
+424,9/17/2024,Villa Hermosa,Kyela,Hueco en vía,En proceso,
+425,5/23/2025,Robledo,Charlotte,Luminaria dañada,Solucionado,17
+426,7/10/2024,Robledo,Kali,Alcantarillado colapsado,En proceso,
+427,4/26/2025,Manrique,Sedatiagung,Luminaria dañada,En proceso,
+428,3/24/2025,El Poblado,Tiznit,Hueco en vía,Pendiente,
+429,11/17/2024,Manrique,Vryburg,Poste caído,Pendiente,
+430,11/14/2024,Laureles,Akhaltsikhe,Alcantarillado colapsado,En proceso,
+431,10/29/2024,Itagui,Zhangduangu,Alcantarillado colapsado,Solucionado,16
+432,9/2/2024,Envigado,Mandesan,Alcantarillado colapsado,En proceso,
+433,8/6/2024,Santo Domingo,Rogów,Poste caído,En proceso,
+434,9/20/2024,Doce de Octubre,Stare Miasto,Luminaria dañada,En proceso,
+435,6/28/2024,Manrique,Lwengo,Alcantarillado colapsado,Pendiente,
+436,12/15/2024,Aranjuez,Jince,Luminaria dañada,En proceso,
+437,3/24/2025,Aranjuez,Kopong,Hueco en vía,Solucionado,13
+438,12/13/2024,Manrique,Aachen,Alcantarillado colapsado,Solucionado,6
+439,9/8/2024,San Javier,Saint-Brieuc,Luminaria dañada,En proceso,
+440,1/2/2025,Doce de Octubre,Santa Rosa,Alcantarillado colapsado,En proceso,
+441,3/1/2025,El Poblado,Munkfors,Poste caído,En proceso,
+442,10/5/2024,Aranjuez,Creil,Poste caído,Solucionado,15
+443,11/22/2024,Belen,El Real,Alcantarillado colapsado,Solucionado,22
+444,2/25/2025,Laureles,Puunage,Alcantarillado colapsado,Solucionado,14
+445,9/29/2024,Doce de Octubre,Nggambel,Hueco en vía,Solucionado,7
+446,5/7/2025,Manrique,Beiguoyuan,Hueco en vía,En proceso,
+447,10/29/2024,Aranjuez,Pegongan,Alcantarillado colapsado,En proceso,
+448,1/19/2025,Laureles,Santa Luzia,Luminaria dañada,Pendiente,
+449,12/12/2024,Aranjuez,Qujiang,Hueco en vía,Solucionado,15
+450,1/17/2025,Santo Domingo,Quetta,Luminaria dañada,Pendiente,
+451,12/15/2024,Manrique,Cruz,Luminaria dañada,Solucionado,7
+452,10/3/2024,Manrique,Longquan,Poste caído,Solucionado,27
+453,12/27/2024,Robledo,Kidričevo,Poste caído,Pendiente,
+454,10/26/2024,Aranjuez,Staritsa,Luminaria dañada,Solucionado,6
+455,6/8/2024,Aranjuez,Pawing,Alcantarillado colapsado,En proceso,
+456,8/23/2024,Villa Hermosa,Bettendorf,Alcantarillado colapsado,En proceso,
+457,7/9/2024,Laureles,Garden Grove,Alcantarillado colapsado,Pendiente,
+458,1/16/2025,Doce de Octubre,Los Angeles,Alcantarillado colapsado,En proceso,
+459,6/2/2024,Aranjuez,Atyrá,Hueco en vía,Solucionado,6
+460,7/13/2024,Envigado,Tidaholm,Poste caído,Solucionado,11
+461,9/25/2024,Laureles,Kertasari,Luminaria dañada,Solucionado,28
+462,3/15/2025,Manrique,Al Jubayhah,Hueco en vía,Pendiente,
+463,3/22/2025,Villa Hermosa,Chating,Luminaria dañada,En proceso,
+464,5/18/2025,Doce de Octubre,Benito Juarez,Hueco en vía,Solucionado,27
+465,4/23/2025,Robledo,Altan-Ovoo,Alcantarillado colapsado,Pendiente,
+466,6/2/2024,Aranjuez,Longjin,Hueco en vía,Solucionado,28
+467,10/16/2024,Envigado,Dongfeng,Poste caído,En proceso,
+468,10/13/2024,Laureles,Cilegi,Poste caído,Solucionado,23
+469,2/26/2025,Belen,Ozalj,Luminaria dañada,Solucionado,4
+470,10/7/2024,Itagui,Brusyliv,Alcantarillado colapsado,En proceso,
+471,4/20/2025,Doce de Octubre,Margotuhu Kidul,Hueco en vía,Solucionado,29
+472,3/1/2025,Santa Cruz,Shantou,Poste caído,Pendiente,
+473,5/27/2025,Castilla,Oklahoma City,Luminaria dañada,Pendiente,
+474,12/9/2024,La Candelaria,Miguel Aleman,Poste caído,Pendiente,
+475,11/20/2024,Doce de Octubre,Casselman,Hueco en vía,En proceso,
+476,8/7/2024,Belen,Terang,Alcantarillado colapsado,Solucionado,16
+477,3/7/2025,Doce de Octubre,Languan,Poste caído,Pendiente,
+478,10/27/2024,Aranjuez,Lipce Reymontowskie,Hueco en vía,En proceso,
+479,10/21/2024,El Poblado,Shijia,Alcantarillado colapsado,En proceso,
+480,12/7/2024,Santa Cruz,Gakem,Hueco en vía,En proceso,
+481,3/5/2025,Doce de Octubre,Vecpiebalga,Luminaria dañada,Solucionado,15
+482,2/9/2025,Manrique,Walichnowy,Hueco en vía,Pendiente,
+483,10/7/2024,San Javier,Libiąż,Hueco en vía,Pendiente,
+484,2/15/2025,Castilla,Nouméa,Luminaria dañada,En proceso,
+485,5/23/2025,Belen,Baturaden,Poste caído,Solucionado,15
+486,6/7/2024,Aranjuez,Mapulo,Alcantarillado colapsado,Pendiente,
+487,12/30/2024,Santo Domingo,Weiwangzhuang,Alcantarillado colapsado,Solucionado,15
+488,10/21/2024,Manrique,Indramayu,Hueco en vía,Pendiente,
+489,9/17/2024,Aranjuez,Vila Nova de Santo André,Alcantarillado colapsado,Solucionado,13
+490,9/29/2024,Laureles,Huatan,Luminaria dañada,Pendiente,
+491,7/25/2024,Santo Domingo,Baleal,Alcantarillado colapsado,Pendiente,
+492,3/9/2025,Doce de Octubre,Karakul’,Luminaria dañada,En proceso,
+493,11/18/2024,Belen,Shofirkon,Luminaria dañada,Pendiente,
+494,10/25/2024,Laureles,Pittsburgh,Poste caído,Pendiente,
+495,10/1/2024,Villa Hermosa,Gostyń,Luminaria dañada,Solucionado,12
+496,10/28/2024,El Poblado,Jinshanwei,Hueco en vía,En proceso,
+497,5/20/2025,Manrique,Matingain,Alcantarillado colapsado,En proceso,
+498,11/9/2024,Aranjuez,Konakridee,Hueco en vía,En proceso,
+499,12/31/2024,Santo Domingo,Sheffield,Alcantarillado colapsado,Pendiente,
+500,9/4/2024,Manrique,Itapeva,Alcantarillado colapsado,Solucionado,17
